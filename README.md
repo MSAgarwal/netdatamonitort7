@@ -17,3 +17,10 @@ Install **Netdata** using Docker and visualize system and application performanc
 - Verified installation:
   ```bash
   docker --version
+
+**Screenshots**
+![Netdata Dashboard](screenshots/Screenshot 2025-08-14 143847.png)
+![Netdata Dashboard](screenshots/Screenshot 2025-08-14 123252.png)
+![Netdata Dashboard](screenshots/Screenshot 2025-08-14 143057.png)
+![Netdata Dashboard](screenshots/Screenshot 2025-08-14 143111.png)
+
