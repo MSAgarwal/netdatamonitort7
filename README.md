@@ -19,8 +19,8 @@ Install **Netdata** using Docker and visualize system and application performanc
   docker --version
 
 **Screenshots**
-![Netdata Dashboard](screenshots/Screenshot 2025-08-14 143847.png)
-![Netdata Dashboard](screenshots/Screenshot 2025-08-14 123252.png)
-![Netdata Dashboard](screenshots/Screenshot 2025-08-14 143057.png)
-![Netdata Dashboard](screenshots/Screenshot 2025-08-14 143111.png)
+![Netdata Dashboard - Overall View](screenshots/01_command.png)
+![Netdata Dashboard - Detailed Metrics](screenshots/02_dashboard.png)
+![Netdata Dashboard - CPU Usage](screenshots/03_system_dashboard.png)
+![Netdata Dashboard - Memory Usage](screenshots/04_moremetric.png)
 
